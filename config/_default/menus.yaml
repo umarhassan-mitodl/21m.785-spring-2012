@@ -1,0 +1,13 @@
+leftnav:
+- identifier: 454e4505-463b-9e4f-9d84-f6506a9948e9
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: a6da720f-6247-87fc-d47e-85c22d53bf32
+  name: Readings
+  pageRef: /pages/readings
+  weight: 20
+- identifier: 3e5b0e87-fe74-08a7-1c3e-78fb038e45aa
+  name: Playwrights in Performance
+  pageRef: /pages/playwrights-in-performance
+  weight: 30
