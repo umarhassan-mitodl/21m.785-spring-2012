@@ -33,6 +33,7 @@
     "website": "21m-785-playwrights-workshop-spring-2012"
   },
   "course_title": "Playwrights' Workshop",
+  "hide_download": true,
   "course_description": "This course provides continued work in the development of play scripts for the theater. Writers work on sustained pieces in weekly workshop meetings, individual consultation with the instructor, and in collaboration with student actors, directors, and designers. Fully developed scripts are eligible for inclusion in the Playwrights' Workshop Production.\n",
   "department_numbers": [
     "21M"
@@ -43,6 +44,7 @@
     "content": "8e714e2e-716a-0858-8480-5f7031daa721",
     "website": "21m-785-playwrights-workshop-spring-2012"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Projects with Examples"
   ],

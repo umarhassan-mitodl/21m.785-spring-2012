@@ -2,6 +2,8 @@
 content_type: page
 description: This section contains examples of scripts produced over the years in
   this course, as well as information on the Playwrights in Performance workshop.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Playwrights in Performance
