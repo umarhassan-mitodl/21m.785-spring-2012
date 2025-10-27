@@ -4,8 +4,6 @@ description: This resource contains information about yosh married.
 file: /courses/21m-785-playwrights-workshop-spring-2012/6268bb575ad231aa3e26722281e84de2_MIT21M_785S12_yosh_maried.pdf
 file_size: 2966342
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

@@ -4,8 +4,6 @@ description: This resource contains information about zero eleven.
 file: /courses/21m-785-playwrights-workshop-spring-2012/5270f5668e190582777f0aed5b010601_MIT21M_785S12_Zero_eleven.pdf
 file_size: 4612429
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

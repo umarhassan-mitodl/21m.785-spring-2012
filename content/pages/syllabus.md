@@ -4,8 +4,6 @@ description: This syllabus section provides the course description and informati
   on meeting times, prerequisites, requirements, weekly meetings, readings and theatrical
   performances, the final project, journals, conferences, playwrights in performance,
   and grading.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
